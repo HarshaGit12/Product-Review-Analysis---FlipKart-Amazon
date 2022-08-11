@@ -7,3 +7,7 @@
 ### Exploratory Analysis is done to understand the distributions of Ratings, Brands and Product Names
 ### Review-Body column is taken and NLP techniques are applied
 ### Bag of Words model is used to convert the text to numerical data (vectors)
+### Logistic Regression model gave better AU-ROC score of 0.911 when compared to other 2 models
+### Percentage of Positive and Negative Reviews for each Mobile phone
+### Average rating for each mobile phone is calculated
+### OnePlus Nord CE 2 5G and OPPO A31 got overall higher ratings when compared to other mobile phones
