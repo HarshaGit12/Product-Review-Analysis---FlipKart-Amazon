@@ -5,3 +5,4 @@
 ### 1) Categorize & analyse the reviews to calculate the percentage of positive & negative reviews.
 ### 2) Calculate the total rating on a scale of 5 for each category.
 ### 3) Create a Ranking table for each Mobile phone based on each category and overall ranking.
+### Develop a machine learning model to analyse & calculate the percentage of positive & negative reviews. Model should also result in a total rating score on a scale of 5.
