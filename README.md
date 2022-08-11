@@ -4,5 +4,6 @@
 ### E-commerce is one of the booming industries & is a one-stop destination for various sellers to market & sell their products online to attract a larger market. Given a set of customer reviews of each category (camera, battery, display, value for money, performance) for a mobile that is live on an e-commerce platform like (Flipkart/Amazon. etc): 
 ### Develop a machine learning model to analyse & calculate the percentage of positive & negative reviews. Model should also result in a total rating score on a scale of 5.
 ## Overview
-### Exploratory Analysis is done
+### Exploratory Analysis is done to understand the distributions of Ratings, Brands and Product Names
 ### Review-Body column is taken and NLP techniques are applied
+### Bag of Words model is used to convert the text to numerical data (vectors)
