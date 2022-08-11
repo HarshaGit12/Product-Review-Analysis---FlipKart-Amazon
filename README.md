@@ -6,7 +6,7 @@
 ## Project Overview
 ### 1. Exploratory Analysis is done to understand the distributions of Ratings, Brands and Product Names
 ### 2. Review-Body column is taken and NLP techniques are applied
-### 3. Bag of Words model is used to convert the text to numerical data (vectors)
+### 3. Bag of Words model is used to convert the text to numerical data (vectors) and Product Review Analysis is done using 3 Machine Learning models
 ### 4. Logistic Regression model gave better AU-ROC score of 0.911 when compared to other 2 models
 ### 5. Percentage of Positive and Negative Reviews for each Mobile phone
 ### 6. Average rating for each mobile phone is calculated
